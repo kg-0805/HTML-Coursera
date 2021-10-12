@@ -22,7 +22,7 @@
 
 
 (function(window) {
-	var speakWord = "Hello";
+	var speakWord = "Hola!!";
 	var helloSpeaker = function (name) {
 		console.log(speakWord + " " + name);
 	}
